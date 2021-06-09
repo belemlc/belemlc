@@ -1,16 +1,32 @@
-### Hi there 👋
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/belemlc/belemlc/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/belemlc/belemlc/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=belemlc.belemlc)
 
-<!--
-**belemlc/belemlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```yaml
+name: Luiz Carlos Belem
+located_in: Rio de Janeiro, RJ
+from: Brazil
+education: ["Fullstack Developer", "Backend Developer", "Frontend Sometimes"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["Go lang", "Devops", "Microservices"]
+hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa 21", "R6"]
+
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+PHP                      3 hrs 29 mins       █████████████░░░░░░░░░░░░   53.55% 
+NODE                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+GO                       48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
+
+```
+
+
+<!--END_SECTION:waka-->
