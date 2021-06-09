@@ -7,7 +7,7 @@
 name: Luiz Carlos Belem
 located_in: Rio de Janeiro, RJ
 from: Brazil
-education: ["Fullstack Developer", "Backend Developer", "Frontend Sometimes"]
+habilities: ["Fullstack Developer", "Backend Developer", "Frontend Sometimes"]
 
 currently_learning: ["Go lang", "Devops", "Microservices"]
 hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa 21", "R6"]
