@@ -17,7 +17,7 @@ hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa 21", "R6"]
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: America/Sao Paulo
 
 💬 Programming Languages: 
 PHP                      3 hrs 29 mins       █████████████░░░░░░░░░░░░   53.55% 
