@@ -10,7 +10,7 @@ from: Brazil
 habilities: ["Fullstack Developer", "Backend Developer", "Frontend Sometimes"]
 
 currently_learning: ["Go lang", "Devops", "Microservices"]
-hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa 21", "R6"]
+hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa", "Films"]
 
 ```
 
