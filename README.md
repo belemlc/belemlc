@@ -14,6 +14,10 @@ hobbies: ["Basketball", "Xbox", "NBA2k", "Fifa", "Films"]
 
 ```
 
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=belemlc&count_private=true&show_icons=true&include_all_commits=true)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belemlc&hide=TeX&layout=compact)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
